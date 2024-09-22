@@ -1,0 +1,6 @@
+<html>
+    <body>
+       <h1>This is Rukmini Site<h1>
+       <h2>This is container created from dockerfile. Image created to ACR.<h2>
+    <body>
+<html>
